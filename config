@@ -1,0 +1,32 @@
+﻿{   
+    "plants":
+    [
+        {
+            "devices":
+            [
+                {
+                    "port": 1,
+                    "baud": 9600,
+                    "slaveId": 1,
+                    "brand": 0,
+                    "mpp": 6,
+                    "phase": 3,
+                    "kw": 2,
+                    "kwr": 2,
+                    "sn": "12345"
+                },
+                {
+                    "port": 1,
+                    "baud": 9600,
+                    "slaveId": 2,
+                    "brand": 0,
+                    "mpp": 6,
+                    "phase": 3,
+                    "kw": 2,
+                    "kwr": 2,
+                    "sn": "67891"
+                }    
+            ]
+        }
+    ]    
+}
